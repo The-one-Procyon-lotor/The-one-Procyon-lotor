@@ -57,7 +57,7 @@ Currently, I work as an **Application Manager**, where I support, maintain, and 
 
 ### Application Management
 
-* Operation and maintenance of enterprise software systems
+* Operation, maintenance and expansion of enterprise software systems
 * Incident, problem, and change management
 * Support for ERP and business applications
 * Process analysis and optimization in production environments
