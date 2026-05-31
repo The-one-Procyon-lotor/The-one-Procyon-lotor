@@ -65,29 +65,4 @@ Currently, I work as an **Application Manager**, where I support, maintain, and 
 
 ---
 
-## 📂 Projects
-
-* 🔹 **Project Name** – Short description (e.g. backend service, tool, automation script)
-* 🔹 **Project Name** – Short description
-* 🔹 **Project Name** – Short description
-
----
-
-## 📈 Currently Working On
-
-* Improving backend development skills (Java / .NET)
-* Building personal software engineering projects
-* Learning system design fundamentals
-* Expanding knowledge of APIs and cloud environments
-
----
-
-## 📫 Contact
-
-* LinkedIn: [your link]
-* Email: [your email]
-* GitHub: [this profile]
-
----
-
-*"Focused on building practical, maintainable software systems."*
+*"Passionate about continuous learning in IT: exploring everything frim high-level frameworks to low-level hardware design."*
