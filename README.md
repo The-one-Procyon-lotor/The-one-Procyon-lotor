@@ -4,17 +4,17 @@ I'm **Ricardo**.
 
 I completed a German vocational training as a **Computer Science Expert (Subject Area: Software Development)**.
 
-Currently, I work as an **Application Manager**, where I support, maintain, and optimize business-critical software systems. Alongside this role, I am actively working on deepening my software engineering skills and transitioning further into professional software development.
+Currently, I work as a **Junior Devoloper**, in an SAP Environment. Alongside this role, I am actively working on deepening my software engineering skills and transitioning further into professional software development.
 
 ---
 
 ## 🚀 About Me
 
 * 🎓 Qualified IT Specialist (Fachinformatiker Anwendungsentwicklung)
-* 💼 Application Manager in an enterprise environment
+* 💼 Junior Developer in an SAP Environment
 * 💻 Strong focus on Application Development and Business Software Systems
 * 🌱 Currently improving my skills in modern software engineering practices
-* 🔍 Actively aiming to transition into a Software Developer role
+* 🔍 ~~Actively aiming to Transition~~ Successfully transitioned into a Software Developer role 😉
 
 ---
 
@@ -27,6 +27,7 @@ Currently, I work as an **Application Manager**, where I support, maintain, and 
 * SQL
 * Python
 * Progress ABL
+* ABAP
 
 **Frameworks & Technologies**
 
@@ -35,6 +36,7 @@ Currently, I work as an **Application Manager**, where I support, maintain, and 
 * REST APIs
 * HTML / CSS
 * SAP BTP
+* UI5
 
 **Databases**
 
@@ -42,6 +44,7 @@ Currently, I work as an **Application Manager**, where I support, maintain, and 
 * PostgreSQL
 * MySQL
 * DB2
+* HANA
 
 **Tools & Platforms**
 
@@ -50,10 +53,15 @@ Currently, I work as an **Application Manager**, where I support, maintain, and 
 * Linux
 * Jira / Confluence
 * ERP Systems: Infor XPERT, proALPHA
+* Codex
 
 ---
 
 ## 💼 Professional Experience
+
+### Junior Developer
+
+* Just started!
 
 ### Application Management
 
